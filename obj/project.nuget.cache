@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHWBtQOMjzCCEVeVlttDDvWJugwB7twqP5MuiYHYfvpmxOMhZkWTH67G0nV1SY2p4+N4mHUMfGczy1apFeTv0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jociele\\Desktop\\Nova pasta\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jociele\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Jociele\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Jociele\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Jociele\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
